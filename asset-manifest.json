@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-clicker/static/css/main.dfeb684a.css",
-    "main.js": "/react-clicker/static/js/main.cee2f18f.js",
+    "main.js": "/react-clicker/static/js/main.89400f84.js",
     "index.html": "/react-clicker/index.html",
     "main.dfeb684a.css.map": "/react-clicker/static/css/main.dfeb684a.css.map",
-    "main.cee2f18f.js.map": "/react-clicker/static/js/main.cee2f18f.js.map"
+    "main.89400f84.js.map": "/react-clicker/static/js/main.89400f84.js.map"
   },
   "entrypoints": [
     "static/css/main.dfeb684a.css",
-    "static/js/main.cee2f18f.js"
+    "static/js/main.89400f84.js"
   ]
 }
