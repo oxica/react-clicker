@@ -4,6 +4,7 @@ const containerStyles = {
   maxWidth: 1170,
   marginLeft: 'auto',
   marginRight: 'auto',
+  marginTop: '50px',
   paddingLeft: 15,
   paddingRight: 15,
 };
